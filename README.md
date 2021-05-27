@@ -2,7 +2,7 @@
 
 <h2><strong>Status:</strong> Finished ✔️</h2>
 
-### This project was developed in my programming course (Programador-Br), in order to improve my knowledge of <strong>HTML</strong> and <strong>CSS</strong>.The purpose of the page is to make the fans of Marcos Stanley manage to book the ticket for stand up show.
+### This project was developed in my programming course (Programador-Br), in order to improve my knowledge of <strong>HTML</strong> and <strong>CSS</strong>. The purpose of the page is to make the fans of Marcos Stanley manage to book the ticket for stand up show.
 <br>
 
 <div align="center">
