@@ -36,7 +36,7 @@
 
 <br>
 
-## 💻 Click on [Marcos Stanley Show!], and use my Landing Page!😎 
+## 💻 Click on [Marcos Stanley Show!](marcos-stanley-stand-up-show.netlify.app), and use my Landing Page!😎 
 
 
 <br>
