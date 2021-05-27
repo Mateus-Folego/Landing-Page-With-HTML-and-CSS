@@ -6,15 +6,14 @@
 <br>
 
 <div align="center">
-    <img src="./assets/gif-landingpage/demo-web.gif" > 
+    <img src="./GitHub/demo-Web.gif" alt="demo-web"> 
         <br><br>
-    <img src="./assets/gif-landingpage/demo-mob.gif" alt="demo-mobile" width="250">
+    <img src="./GitHub/demo-Mob.gif" alt="demo-mobile" width="250">
 </div>
 <br>
 
-
 ## **🚀 Technologies** 
-<hr>
+
 
 <br>
 
@@ -27,7 +26,7 @@
 <br>
 
 ## **🐵 What is Mailchimp?**
-<hr>
+
 
 <br>
 
@@ -38,7 +37,7 @@
 <br>
 
 ## 💻 Click on [Marcos Stanley Show!], and use my Landing Page!😎 
-<hr>
+
 
 <br>
 
