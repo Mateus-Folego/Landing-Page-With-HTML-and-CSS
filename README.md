@@ -41,7 +41,7 @@
 
 <br>
 
-### Thanks for reading so far. if you want to contact me, feel free to send me a message on [linkedIn](https://www.linkedin.com/in/mateus-silva-folego260601/) ❤!
+### Thanks for reading so far. if you want to contact me, feel free to send me a message or send a connection request on my [linkedIn](https://www.linkedin.com/in/mateus-silva-folego260601/) ❤!
 
 <br>
 
