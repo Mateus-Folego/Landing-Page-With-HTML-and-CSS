@@ -1,0 +1,178 @@
+/* O "*" SIGNIFICA TODOS OS ELEMENTOS */
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: black;
+}
+
+
+.container{
+    max-width: 1250px;
+    margin: auto;
+}
+
+.header{
+    background-color: #792ccc;
+    text-align: center;
+    color: white;
+}
+
+.title{
+    font-size: 30px;
+    padding: 10px;
+
+}
+
+section{
+    color: black;
+    padding: 20px;
+    background-image: url(../assets/stand_up_3.jpeg);
+    background-size: cover;
+    background-attachment: fixed;
+    /* PARA A IMAGEM COBRIR TODA A DIV */
+    overflow: hidden;
+}
+
+.formcontainer{
+    max-width: 260px;
+    /* BB = Transparência */
+    background-color: #FFFFFFBB;
+    padding: 20px;
+    float: right;
+}
+
+h2{
+    font-size: 18px;
+    text-align: left;
+}
+
+
+.marbot{
+    margin-bottom:15px;
+}
+
+.paraone{
+    font-family: 'Franklin Gothic', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 15px;
+}
+
+
+input, select{
+    width: 100%;
+    box-sizing: border-box;
+    padding: 10px;
+    border: none;
+    margin-bottom: 10px;
+    outline: none;
+}
+
+input[type="submit"]{
+    color: white;
+    background-color:#792ccc;
+    font-weight: bold;
+    border: 2px solid #792ccc;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover{
+    color: #792ccc;
+    background-color: #FFFFFFBB;
+    font-weight: bold;
+    border: 2px solid #792ccc;
+}
+
+
+select{
+    /* MUDANDO A SETA DO SELECT */
+    appearance: none;
+    /* TIRANDO DE ALGUNS NAVEGADORES TAMBÉM */
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    background-image: url(../assets/arrow.jpg);
+    /* NÃO REPETIR A IMAGEM DA SETA */
+    background-repeat: no-repeat;
+    /* DEFININDO A POSIÇÃO DELA */
+    /* CALC= CÁLCULO = 100% EIXO X - 10PX */
+    background-position-x: calc(100% - 10px);
+    background-position-y: center;
+    cursor: pointer;
+}
+
+footer{
+    background-color:#202121;
+    padding: 40px;
+    text-align: center;
+
+}
+.picture{
+    width:160px;
+}
+
+.description{
+    color: white;
+    display: inline-block;
+    max-width: 40%;
+    margin-left: 40px;
+    text-align: left;
+}
+
+/* CHAMANDO OS ELEMENTOS P E H3 SEM PRECISAR CRIAR UMA CLASS ESPECÍFICA PARA ELES */
+.description h3{
+    margin-bottom: 20px;
+    font-weight: bolder;
+    font-size: 25px;
+}
+
+.description p{
+    margin-bottom: 20px;
+    font-family: 'Franklin Gothic', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+@media(max-width: 862px){
+    .title{
+        font-size: 24px;
+    }
+   
+}
+
+
+@media (max-width: 697px){
+
+    .title{
+        font-size: 20px;
+    }
+
+    .formcontainer{
+        float: none;
+        margin: auto;
+    }
+
+    .picture{
+        max-width: 260px;
+        margin: auto;
+    }
+
+    footer{
+        padding-top: 20px;
+        padding-bottom: 0px;
+        margin: auto;
+    }
+    .description{
+        padding: 20px;
+        max-width: 260px;
+        margin: auto;
+        text-align: left;
+        font-size: 15px;
+    }
+
+    .description h3{
+        font-size: 22px;
+        text-align: center; 
+    }
+ 
+}
