@@ -66,6 +66,8 @@ input, select{
     margin-bottom: 10px;
     outline: none;
     -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
 }
 
 input[type="submit"]{
