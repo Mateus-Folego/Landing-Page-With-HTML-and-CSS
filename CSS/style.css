@@ -65,6 +65,7 @@ input, select{
     border: none;
     margin-bottom: 10px;
     outline: none;
+    -webkit-appearance: none;
 }
 
 input[type="submit"]{
@@ -73,6 +74,7 @@ input[type="submit"]{
     font-weight: bold;
     border: 2px solid #792ccc;
     cursor: pointer;
+    
 }
 
 input[type="submit"]:hover{
@@ -80,6 +82,7 @@ input[type="submit"]:hover{
     background-color: #FFFFFFBB;
     font-weight: bold;
     border: 2px solid #792ccc;
+    
 }
 
 select{
